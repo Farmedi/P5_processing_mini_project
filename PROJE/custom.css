@@ -1,0 +1,9 @@
+input{
+	width: 50px;
+	margin-left: 10px;
+	height: 13px;
+}
+h1{
+	position: absolute;
+	margin-left: 600px;
+}
